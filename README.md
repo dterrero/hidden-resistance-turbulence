@@ -28,6 +28,26 @@ This serves as a **validation layer** for the γ-inversion methodology.
 
 ---
 
+## 📁 Dataset Acknowledgment
+
+The velocity data used in this project is derived from the **JHU Turbulence Database (JHTDB)**:
+
+> **Citation** (for scholarly or derivative use):
+
+```bibtex
+@article{Li2008JHTDB,
+  title={A public turbulence database cluster and applications to study Lagrangian evolution of velocity increments in turbulence},
+  author={Li, Y. and Perlman, E. and Wan, M. and Yang, Y. and Meneveau, C. and Burns, R. and Chen, S. and Szalay, A. and Eyink, G.},
+  journal={Journal of Turbulence},
+  volume={9},
+  pages={N31},
+  year={2008},
+  publisher={Taylor \& Francis}
+}
+```
+
+Please cite this work if you use or build upon this analysis.
+
 ## 🧪 Key Result (June 23)
 
 - Inverted γ-field shows strong coherent structures
