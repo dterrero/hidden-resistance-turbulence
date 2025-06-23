@@ -10,7 +10,7 @@ This repository documents the results of a novel method to **infer internal diss
 
 ## 📌 Project Summary
 
-Using smoothed kinetic energy and its Laplacian, we invert for a scalar dissipation field \( \gamma(x,y,z) \), which reflects **internal resistance to transformation** in turbulent flows. This field is not assumed but **inferred** directly from velocity data.
+Using smoothed kinetic energy and its Laplacian, we invert for a scalar dissipation field \( γ(x,y,z) \), which reflects **internal resistance to transformation** in turbulent flows. This field is not assumed but **inferred** directly from velocity data.
 
 We then compare this inferred field against:
 - ✅ Strain rate magnitude
