@@ -48,7 +48,7 @@ Please see the [LICENSE](LICENSE) for full terms.
 - ❌ Do not derive or publish the theory behind the code.
 - ✅ Academic replication and peer review is allowed.
 
-For questions, contact the author: **dicksont@gmail.com**
+For questions, contact the author: **dicksonterrero@gmail.com**
 
 ---
 
